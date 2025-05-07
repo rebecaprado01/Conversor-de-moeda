@@ -6,5 +6,5 @@
 
  <p>Para desenvolver o conversor de moeda foi utilizado HTML, CSS e JavaScript, neste projeto é possível converter o real em dólar, dólar canadense ou euro.</p>
 
-<img src="https://github.com/rebecaprado01/Conversor-de-moeda/blob/main/assets/desktop.png?raw=true"/>
+<img src="https://raw.githubusercontent.com/rebecaprado01/Conversor-de-moeda/main/assets/desktop.png" />
 
